@@ -1,0 +1,15 @@
+body {
+	background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/547/861/small_2x/technology_1438.jpg);
+}
+
+.container {
+	background-color: rgba(0, 0, 0, 0.63);
+	padding: 5px;
+	color: whitesmoke;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+nav {
+	background-color: rgba(119, 255, 235, 0.63);
+}
